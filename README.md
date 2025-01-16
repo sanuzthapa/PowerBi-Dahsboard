@@ -1,11 +1,54 @@
-<h1 align="center">Hi 👋, I'm THAPA Sanus</h1>
-<h3 align="center">Student of Behavioral Ecomomics at UFC, Besancon</h3>
+<h1 align="center">Hi 👋, I'm THAPA Sanuz</h1>
+<h3 align="center">Student of Behavioral Economics at UFC, Besançon</h3>
 
-- 🔭 This is the project Designed for the Analaysis of Uniqlo using PowerBI **Uniqlo expansion plan (France)**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+### 🔭 About the Project
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+This project is designed for the analysis of **Uniqlo** using **Power BI** as part of the Uniqlo expansion plan (France)[Experiemntal Project].
+
+#### Methodology used in this project:
+- Filtering and validating data  
+- Cleaning data  
+- Combining and creating relationships between two different datasets  
+- Data visualization and manipulation  
+- Interactive dashboard design  
+- Advanced data manipulation using econometric measures:
+  - Forecasting sales
+  - Forecasting new store openings  
+- Predicting sales and revenue with available datasets  
+- Advanced visualization using Pareto efficiency  
+- Detailed comparison:
+  - Between stores, locations, and regions (internal analysis)  
+  - Between competitors in market revenue and shares  
+
+---
+
+### 💬 Connect with Me:
+- 📫 **Email**: [sanuzh.thapa@gmail.com](mailto:sanus.thapa@example.com)  
+- 🌐 **LinkedIn**: [www.linkedin.com/in/sanuz-thapa](https://linkedin.com/in/sanuz-thapa)  
+
+---
+
+### 🛠️ Languages and Tools:
+
+---
+
+### 📸 Project Screenshots:
+
+Below are some screenshots of the Uniqlo Power BI Dashboard and analyses:
+
+#### 1. **Interactive Dashboard Overview**
+![Dashboard Overview](https://github.com/sanuzthapa/PowerBi-Dahsboard/blob/main/image.png)
+
+#### 2. **Sales Forecasting Analysis**
+![Sales Forecast](path/to/sales-forecast.png)
+
+#### 3. **Regional Comparison Visualization**
+![Regional Comparison](path/to/regional-comparison.png)
+
+#### 4. **Competitor Analysis**
+![Competitor Analysis](path/to/competitor-analysis.png)
+
+---
+
