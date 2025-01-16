@@ -31,7 +31,7 @@ This project is designed for the analysis of **Uniqlo** using **Power BI** as pa
 ---
 
 ### 🛠️ Languages and Tools:
-
+    ** Power BI **
 ---
 
 ### 📸 Project Screenshots:
