@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm THAPA Sanuz</h1>
-<h3 align="center">Student of Behavioral Economics at UFC, Besançon</h3>
+<h3 align="center">Student of Behavioral Economics & Data Science at UFC, Besançon</h3>
 
 ---
 
