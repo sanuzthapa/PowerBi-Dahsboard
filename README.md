@@ -1,4 +1,4 @@
-** #PowerBI project for Uniqlo expansion plan (France) Context**
+# PowerBI project for Uniqlo expansion plan (France) Context
 
 ##Description About the project :
 Uniqlo is a Japanese brand for ready to wear, it was created in 1980. It has become in a few 
