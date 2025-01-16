@@ -1,6 +1,6 @@
-#PowerBI project for Uniqlo expansion plan (France) Context
+** #PowerBI project for Uniqlo expansion plan (France) Context**
 
-#Description About the project :
+##Description About the project :
 Uniqlo is a Japanese brand for ready to wear, it was created in 1980. It has become in a few 
 years a contender in the global fast fashion retail market. Despite having to compete against 
 other bigger players like ZARA (Inditex), H&M, Uniqlo has still managed to grow and enforce 
