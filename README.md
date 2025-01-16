@@ -45,10 +45,10 @@ Below are some screenshots of the Uniqlo Power BI Dashboard and analyses:
 ![Sales Forecast](https://github.com/sanuzthapa/PowerBi-Dahsboard/blob/main/Internal_analysis.png)
 
 #### 3. **Regional Comparison Visualization**
-![Regional Comparison](path/to/regional-comparison.png)
+![Regional Comparison](https://github.com/sanuzthapa/PowerBi-Dahsboard/blob/main/visualizationByRegion.png)
 
 #### 4. **Competitor Analysis**
-![Competitor Analysis](path/to/competitor-analysis.png)
+![Competitor Analysis](https://github.com/sanuzthapa/PowerBi-Dahsboard/blob/main/External-comparison.png)
 
 ---
 
