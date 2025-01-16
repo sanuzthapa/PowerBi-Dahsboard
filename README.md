@@ -39,7 +39,7 @@ This project is designed for the analysis of **Uniqlo** using **Power BI** as pa
 Below are some screenshots of the Uniqlo Power BI Dashboard and analyses:
 
 #### 1. **Interactive Dashboard Overview**
-![Dashboard Overview](https://github.com/sanuzthapa/PowerBi-Dahsboard/blob/main/home-Dashboard.png)
+![Dashboard Overview](https://github.com/sanuzthapa/PowerBi-Dahsboard/blob/main/home-Dashboard1.png)
 
 #### 2. **Sales Forecasting Analysis (Internal)**
 ![Sales Forecast](https://github.com/sanuzthapa/PowerBi-Dahsboard/blob/main/Internal_analysis.png)
